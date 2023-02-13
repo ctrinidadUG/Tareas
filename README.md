@@ -1,0 +1,2 @@
+# Durante la Actividad 2 se llevo a cabo un contador de meses en el cual nos idicaba a que estacion pertenecia el numero de mes seleccionado. Depues de poder realizar esta operacion con la ayuda de condicionales y conectores logicos logramos desplegar una alerta con el nombre del autor.
+Durante la Actividad 2 se llevo a cabo un contador de meses en el cual nos idicaba a que estacion pertenecia el numero de mes seleccionado. Depues de poder realizar esta operacion con la ayuda de condicionales y conectores logicos logramos desplegar una alerta con el nombre del autor.
